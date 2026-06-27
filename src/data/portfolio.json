@@ -236,8 +236,7 @@
   "thesis": {
     "title": "Exploring Quantum Circuit Born Machine (QCBM) for Clinical Image Generation Under Data-Scarce Conditions",
     "description": "This MSc thesis investigates the application of Quantum Circuit Born Machines (QCBM) to generate synthetic clinical images when training data is limited. The research explores how quantum machine learning can address the critical challenge of data scarcity in medical imaging, particularly for rare diseases where obtaining large datasets is difficult. The study aims to demonstrate that QCBM models can produce high-quality, diverse medical images that maintain clinical relevance while preserving patient privacy, potentially enabling better AI training for diagnostic models in resource-constrained healthcare settings.",
-    "technologies": ["Quantum Machine Learning", "Qiskit", "PennyLane", "QCBM", "Medical Imaging", "Synthetic Data Generation"],
-    "status": "In Progress"
+    "technologies": ["Quantum Machine Learning", "Qiskit", "PennyLane", "QCBM", "Medical Imaging", "Synthetic Data Generation"]
   },
   "achievements": [
     "2025-26 Sprinter of the Quarter Award - Lovelocal",
