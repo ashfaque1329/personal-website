@@ -1,0 +1,465 @@
+{
+  "name": "Ashfaque Chowdhury",
+  "title": "Chief Technology Officer/AI Researcher",
+  "location": "Bengaluru, India",
+  "linkedin": "https://www.linkedin.com/in/ashfaque1329/",
+  "github": "https://github.com/ashfaque1329",
+  "languages": {
+    "en": "English · Advanced",
+    "hi": "Hindi · Advanced",
+    "es": "Spanish · Beginner"
+  },
+  "summary": "Accomplished CTO with 13+ years leading global teams across USA, France, Singapore, KSA, and UAE. Proven expertise in architecting scalable enterprise solutions using microservices and cutting-edge cloud technologies. Skilled in designing high-throughput data streaming platforms, AI/GenAI SaaS products, and full-stack applications. Passionate about leveraging emerging technologies to solve complex business challenges while fostering a culture of continuous learning, agility, and engineering excellence.",
+  "skills": [
+    "AI, Deep Learning, Machine Learning, Generative AI",
+    "RAG, Multi AI Agents (CrewAI, Autogen)",
+    "Quantum Machine Learning, Qiskit, PennyLane",
+    "Web Application Frontend: ReactJS, JQuery, Svelte, NextJS, Apollo GraphQL",
+    "Web Application Backend: FastAPI, Django, Flask, Node.js, Laravel, GraphQL",
+    "SQL Databases: MariaDB, MySQL, Oracle, MS SQL, Google BigQuery, Snowflake, PostgreSQL, Amazon Redshift",
+    "NoSQL Databases: MongoDB, Cassandra DB, Scylla DB, Redis, Aerospike, Neo4J",
+    "Vector Databases: Weaviate, ChromaDB",
+    "C, Modern C++, Rust, 6502 Assembly Programming",
+    "Real Time Data Processing: Apache Storm, Apache Kafka, Apache Spark",
+    "ETL Tools: Apache Airflow/Google Cloud Composer, Pentaho Data Integration, Informatica, ODI",
+    "BI Tools: Apache Superset, Tableau, Google Data Studio",
+    "Mobile Application Development: React Native, Android Kotlin/Java, iOS Swift",
+    "DevOps: Docker, Kubernetes, JenkinsCI, TravisCI, TeamCityCI, Terraform, Ansible, EFK, Prometheus, Grafana",
+    "Quantum Machine Learning",
+    "Software Testing: JMeter, NightwatchJS, Lambda Test, TestMo",
+    "Game Development: C++ - Unreal Engine, Raylib, Rust - Brackettlib",
+    "Robotics using ROS2"
+  ],
+  "experience": [
+    {
+      "title": "Chief Technology Officer",
+      "company": "Lovelocal",
+      "location": "Bengaluru, India",
+      "period": "10/2024 – Current",
+      "highlights": [
+        "Led a team of 30, directing technology roadmaps and budget planning for 2024-26 in alignment with business objectives",
+        "Reduced IT infrastructure costs by 30% and cut technical debt by 80% within 12 months through systematic modernization",
+        "Boosted developer output by 25% by integrating AI-powered tools (Windsurf, Korbit.ai, Hivel) and tracking performance metrics",
+        "Designed an AI Smart Shopping assistant (ASR, TTS, OCR) that streamlined the customer purchase journey and enhanced user engagement",
+        "Drove enterprise-wide AI adoption, including AI-driven user interfaces and a 40% search performance gain via Typesense tuning",
+        "Architected an AI Smart Catalogue using Computer Vision and Multi-AI Agents to personalise and elevate the customer experience",
+        "Architected an AI Recommender System to boost funnel conversion",
+        "Built scalable data pipelines (Airflow, Airbyte, DBT, Snowflake) enabling real-time analytics and faster business insights",
+        "Secured cloud infrastructure with Google Cloud Armor, reducing vulnerabilities by 60% and strengthening overall security posture",
+        "Accelerated release cycles by 35% through CI/CD and workflow automation, improving time-to-market",
+        "Reduced application size using R8 compilation and App Thinning, enhancing download speeds and user experience"
+      ]
+    },
+    {
+      "title": "Director of Engineering",
+      "company": "Nykaa - FSN International Private Limited",
+      "location": "Bengaluru, India",
+      "period": "11/2023 – 05/2024",
+      "highlights": [
+        "Defined engineering budgets aligned with business objectives, optimising ROI by 25% through cost-efficient resource allocation",
+        "Established technology and product roadmaps for Nykaa's international e-commerce platform in the GCC, ensuring scalable market entry and regional readiness",
+        "Led the successful launch of Nykaa's GCC e-commerce platform, driving regional revenue growth and market presence",
+        "Built a Cloud Analytics platform consolidating data from MoEngage, GA4, Google/Facebook Ads, and Firestore, improving decision-making latency by 40% for faster business insights",
+        "Led a global team of 18 across Product, UI/UX, and Engineering (India and UAE), fostering seamless cross-functional collaboration",
+        "Drove recruitment of top-tier software engineers, reducing time-to-hire by 30% while maintaining a 90% retention rate through strong talent engagement and development"
+      ]
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Seniority Private Limited, Evergreen Community Pvt. Ltd. (An RPG Company)",
+      "location": "Bengaluru, India",
+      "period": "06/2021 – 10/2022",
+      "highlights": [
+        "Spearheaded company-wide technology and product strategy, aligning roadmaps with budgetary constraints while driving innovation",
+        "Reduced technology operational costs by 40% through infrastructure optimization and process improvements",
+        "Led architecture and development of senior-focused social platform featuring real-time feed system with edge ranking algorithm for personalized content delivery",
+        "Implemented GDPR-compliant privacy layer ensuring full regulatory compliance",
+        "Developed AI-powered content moderation (Computer Vision) achieving 92% accuracy in inappropriate content detection",
+        "Built scalable infrastructure supporting 30,000+ concurrent users using Node.js, Next.js, React Native, Neo4J, PostgreSQL, Redis, AWS (EC2, Lambda, API Gateway), Kafka",
+        "Designed scalable notification system handling 5,000+ events/sec using Kafka, gRPC, and Protocol Buffers",
+        "Built voucher generation service processing 50k+ daily transactions with 99.99% uptime",
+        "Developed GCP-based analytics platform (BigQuery, Cloud Composer) reducing marketing insights latency from 24hrs to 15 minutes",
+        "Created Data Studio dashboards adopted by 80% of business teams for decision-making",
+        "Managed cross-functional team of 30+ (engineers, UI/UX, product)",
+        "Directed development of Seniority eCommerce platform (web + mobile) achieving 95% accessibility compliance for senior users"
+      ]
+    },
+    {
+      "title": "Principal Architect - Tech/Senior Manager - Tech",
+      "company": "Byju's Think and Learn Pvt. Ltd.",
+      "location": "Bengaluru, India",
+      "period": "03/2019 – 06/2021",
+      "highlights": [
+        "Led a global team of 40 in U.S.A, France and India to design and develop micro-frontends based highly scalable website",
+        "Developed an eCommerce web application in Shopify and a microservices based comprehensive learning management platform capable of supporting 100k+ real-time users",
+        "Built SPA based web applications using NodeJS, NextJS, ReactJS, MongoDB, MYSQL, Redis, GatsbyJS, Wordpress, AWS API Gateway, AWS Elastic Beanstalk, TravisCI, SonarCloud, JMeter, NightwatchJS, EFK, AWS Lambda and AWS SQS",
+        "Designed and developed Cloud BI and Analytics Platform using Apache Airflow, Apache Kafka, MongoDB, AWS Redshift, Tableau integrating data from Leads app, Sales app, Facebook Ad Insights API, Google Analytics API, Google Ads API (using Python multiprocessing) etc.",
+        "Developed in-house fraud analytics platform using Python, Apache Airflow and AWS Redshift",
+        "Designed and developed a warehouse management system and mentored 50+ employees on Python, Javascript, SQL and NoSQL databases"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Kickdrum Technologies India Pvt. Ltd",
+      "location": "Bengaluru, India",
+      "period": "10/2018 – 02/2019",
+      "highlights": [
+        "Architected and implemented a HIPAA-compliant Staffing and Skillset Matching solution for a US healthcare firm, leveraging Salesforce Apex, Node.js, SOQL, and AWS Lambda",
+        "Developed Q&A dashboard based Web App using NodeJS, Express, Pug and MYSQL"
+      ]
+    },
+    {
+      "title": "Lead Engineer / Senior Engineer / Engineer",
+      "company": "Cartesian Consulting Pvt. Ltd",
+      "location": "Bengaluru, India",
+      "period": "08/2015 – 10/2018",
+      "highlights": [
+        "Designed, developed and deployed a multi-tenant analytics driven Email marketing Single Page Web Application using Django, Django Rest Framework, ReactJS, Bootstrap CSS, MariaDB and R",
+        "Designed and developed a multi-tenant analytics driven marketing attribution tool using MariaDB, Pentaho Data Integration and R",
+        "Trained and mentored a team of 6 on SQL, Python, Pentaho Data Integration and Javascript",
+        "Mentored an intern in developing a VUI based IOT application using RaspberryPi 3B+, NodeJS, React JS and Rasa NLU",
+        "Designed, developed and deployed an AI based multi-tenant CRM platform Solus.ai using Django, Django Rest Framework, ReactJS, Materialize CSS and MariaDB as a SaaS product for eCommerce, QSRs and apparel and retail clients in India, Indonesia and Malaysia",
+        "Designed and developed a Real time Data Processing platform using Apache Storm, Apache Kafka, Streamparse and Redis for twitter streaming data analysis",
+        "Designed and developed data orchestration pipelines for a Leads Scoring project",
+        "Trained and mentored a team of 3 on SQL, Python and SpagoBI",
+        "Designed, developed and deployed a prototype of an analytics driven Email marketing Web Application using PHP Laravel, Jquery, Materialize CSS and MySQL",
+        "Designed and developed Dashboards, OLAP Cubes and KPI Reports using SpagoBI"
+      ]
+    },
+    {
+      "title": "BI Developer",
+      "company": "Redmart India Pvt. Ltd (now Part of Lazada/Alibaba Group, Singapore)",
+      "location": "Bengaluru, India",
+      "period": "03/2015 – 07/2015",
+      "highlights": [
+        "Designed and developed data orchestration pipelines using Pentaho Data Integration and databases such as MongoDB, SQL Server, PostgreSQL and Amazon Redshift",
+        "Designed and developed BI reports on competitor pricing, slow moving products using Tableau",
+        "Collaborated with the software development team in India and the analytics team in Singapore"
+      ]
+    },
+    {
+      "title": "Associate Software Engineer",
+      "company": "Numerify Software Pvt. Ltd",
+      "location": "Bengaluru, India",
+      "period": "07/2014 – 12/2014",
+      "highlights": [
+        "Designed and developed data orchestration pipelines using Talend Open Studio and databases such as MySQL and Amazon Redshift",
+        "Developed sub-routines on MySQL and Amazon Redshift as per client's requirements"
+      ]
+    },
+    {
+      "title": "Trainee Engineer",
+      "company": "Fintellix Solutions, formerly iCreate Software Pvt. Ltd",
+      "location": "Bengaluru, India",
+      "period": "04/2013 – 07/2014",
+      "highlights": [
+        "Designed and developed a MIS platform and data orchestration pipelines using Informatica Powercenter, MS SQL server and Erwin (data modeling) for a Middle-East (KSA) based banking client"
+      ]
+    },
+    {
+      "title": "Trainee",
+      "company": "KPI Partners Software Pvt. Ltd",
+      "location": "Bengaluru, India",
+      "period": "12/2012 – 03/2013",
+      "highlights": [
+        "Designed and developed data orchestration pipelines using Informatica Powercenter and ODI, data modeling using Erwin and data processing in SQL for a BI project for an Indian client"
+      ]
+    }
+  ],
+  "specializations": [
+    {
+      "name": "Experiential Quantum Immersion Program",
+      "issuer": "Ingenii",
+      "date": "2026-01",
+      "url": "https://credserve.com/credentials/90f7e588-fda2-4dbb-821d-1a3d1182e228"
+    },
+    {
+      "name": "The Complete Quantum Computing Course for Beginners",
+      "issuer": "Coursera",
+      "date": "2025-10",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/IQJIPXKZU5ZN"
+    },
+    {
+      "name": "C++ Nanodegree",
+      "issuer": "Udacity",
+      "date": "2023-08",
+      "url": "https://graduation.udacity.com/confirm/e/15ab9da6-fba4-11ea-bed8-0f668f2e70a7"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "date": "2023-01",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/KFMZTWH5UE7A"
+    },
+    {
+      "name": "C++ Programming for Unreal Game Development",
+      "issuer": "Coursera",
+      "date": "2023-01",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/5YN298HS48DG"
+    },
+    {
+      "name": "IOT Foundations Nanodegree Program",
+      "issuer": "Udacity",
+      "date": "2019-05",
+      "url": "https://graduation.udacity.com/confirm/72EMR5SJ"
+    },
+    {
+      "name": "React Nanodegree Program",
+      "issuer": "Udacity",
+      "date": "2018-04",
+      "url": "https://graduation.udacity.com/confirm/CJMHTMML"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science: Artificial Intelligence",
+      "institution": "University of Liverpool",
+      "year": "2024 – 2026"
+    },
+    {
+      "degree": "B.E.: Computer Science Engineering",
+      "institution": "R.V. College of Engineering, Autonomous Under VTU",
+      "year": "2008 – 2012"
+    },
+    {
+      "degree": "12th Standard: Science Stream",
+      "institution": "Army Public School",
+      "year": "2006 – 2008"
+    },
+    {
+      "degree": "10th Standard",
+      "institution": "Faculty Higher Secondary School",
+      "year": "2002 – 2006"
+    }
+  ],
+  "thesis": {
+    "title": "Exploring Quantum Circuit Born Machine (QCBM) for Clinical Image Generation Under Data-Scarce Conditions",
+    "description": "This MSc thesis investigates the application of Quantum Circuit Born Machines (QCBM) to generate synthetic clinical images when training data is limited. The research explores how quantum machine learning can address the critical challenge of data scarcity in medical imaging, particularly for rare diseases where obtaining large datasets is difficult. The study aims to demonstrate that QCBM models can produce high-quality, diverse medical images that maintain clinical relevance while preserving patient privacy, potentially enabling better AI training for diagnostic models in resource-constrained healthcare settings.",
+    "technologies": ["Quantum Machine Learning", "Qiskit", "PennyLane", "QCBM", "Medical Imaging", "Synthetic Data Generation"],
+    "status": "In Progress"
+  },
+  "achievements": [
+    "2025-26 Sprinter of the Quarter Award - Lovelocal",
+    "2018-06 Super Saver Award - Cartesian Consulting Pvt. Ltd.",
+    "2017-05 Innovation Award - Cartesian Consulting Pvt. Ltd.",
+    "2017-05 Above and Beyond Award - Cartesian Consulting Pvt. Ltd.",
+    "2016-05 Rookie of the Year Award - Cartesian Consulting Pvt. Ltd.",
+    "2016-05 Innovation Award - Cartesian Consulting Pvt. Ltd.",
+    "2014-05 Golden Star of the quarter Award - Fintellix Solutions (formerly iCreate)",
+    "1st Runner Up in Regional Round (North-East, India) of NIIT Mind Champion's Academy National Chess Tournament 2005-06. Had the opportunity to play chess against Grand Master Vishwanathan Anand",
+    "2nd Runner Up in International Creativity Olympiad 2008-09 held in Jamshedpur, India",
+    "Winner of Sri Rajiv Gandhi Memorial Quiz 2009, Guwahati",
+    "2nd Runner Up in Horlicks Whiz Kids Quiz Contest 2007, Guwahati",
+    "2nd Runner Up in Brahmaputra Beach Festival 2004, Guwahati"
+  ],
+  "hobbies": [
+    "♟️ Chess",
+    "⚽ Football",
+    "🧠 Quizzing",
+    "🎮 Gaming",
+    "📝 Poetry",
+    "🎬 Movies",
+    "🎵 Music (Guitar)"
+  ],
+  "certifications": [
+    {
+      "name": "Agentic AI",
+      "issuer": "DeepLearning.AI",
+      "date": "2026-06",
+      "url": "https://learn.deeplearning.ai/certificates/b054b84c-4135-4f02-90de-3a340f608cb7"
+    },
+    {
+      "name": "AI @ Quantum Computing - Zero to Expert Bootcamp",
+      "issuer": "Coursera",
+      "date": "2026-01",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/PFJUSKEQFQKP"
+    },
+    {
+      "name": "Ingenii Premium Quantum Machine Learning Fundamentals",
+      "issuer": "Ingenii",
+      "date": "2026-01",
+      "url": "https://credserve.com/credentials/91cda0f5-6036-4119-8b01-490c21a90a2c"
+    },
+    {
+      "name": "Ingenii Premium QML for Image Analysis",
+      "issuer": "Ingenii",
+      "date": "2026-01",
+      "url": "https://credserve.com/credentials/78f87cc1-0082-412d-9ce6-b6f61eabb280"
+    },
+    {
+      "name": "MCP Fundamentals for Building AI Agents",
+      "issuer": "Educative",
+      "date": "2025-07",
+      "url": "https://www.educative.io/verify-certificate/j8yMXcKWLK00ZwysA5Ap3yVJR75p"
+    },
+    {
+      "name": "ScyllaDB Essentials Course Completion",
+      "issuer": "ScyllaDB University",
+      "date": "2025-07",
+      "url": "https://university.scylladb.com/your-certificate/12D26F4D1-12CEA39EA-12CEA13A7"
+    },
+    {
+      "name": "Quantum Computing For Everyone - An Introduction",
+      "issuer": "Coursera",
+      "date": "2025-06",
+      "url": "https://www.coursera.org/account/accomplishments/records/LLVOGE150EOE"
+    },
+    {
+      "name": "Generative Pre-trained Transformers (GPT)",
+      "issuer": "Coursera",
+      "date": "2024-08",
+      "url": "https://coursera.org/verify/QSD4YUOLTFVW"
+    },
+    {
+      "name": "Building Multi-Agent LLMs with AutoGen",
+      "issuer": "Adascio",
+      "date": "2024-08",
+      "url": "https://adasci.org/tutor-certificate/?cert_hash=7a2f9db871bdf607"
+    },
+    {
+      "name": "Multi Agent AI Systems with crewAI",
+      "issuer": "CrewAI",
+      "date": "2024-07",
+      "url": ""
+    },
+    {
+      "name": "Generative AI for Everyone",
+      "issuer": "Coursera",
+      "date": "2023-11",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/32T32WBT457X"
+    },
+    {
+      "name": "Generative AI with Large Language Models",
+      "issuer": "Coursera",
+      "date": "2023-11",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/DPX9KN9FAM8U"
+    },
+    {
+      "name": "Discovering Autonomous Systems",
+      "issuer": "Udacity",
+      "date": "2023-11",
+      "url": "https://www.udacity.com/certificate/e/a6db7acc-8322-11ee-ab45-0bfd65e1e2b"
+    },
+    {
+      "name": "Embedded Systems and Robotics Fluency",
+      "issuer": "Udacity",
+      "date": "2023-11",
+      "url": "https://www.udacity.com/certificate/e/4dbdd912-83db-11ee-97d7-fb4b6f64f084"
+    },
+    {
+      "name": "Neural Networks and Deep Learning",
+      "issuer": "Coursera",
+      "date": "2023-04",
+      "url": "https://coursera.org/verify/ECVWJWJ2TVTW"
+    },
+    {
+      "name": "ChatGPT 101",
+      "issuer": "GrowthSchool",
+      "date": "2023-04",
+      "url": "https://api.growthschool.io/certificate/8506e8b7-e036-4bb6-b0f6-4c867b363a9f"
+    },
+    {
+      "name": "AI For Everyone",
+      "issuer": "Coursera",
+      "date": "2023-01",
+      "url": "https://coursera.org/verify/P2YDUWCM53C2"
+    },
+    {
+      "name": "Hands-On Game Development with Rust",
+      "issuer": "Educative",
+      "date": "2022-07",
+      "url": "https://www.educative.io/verify-certificate/GZjlABCOzJD3PWV1WFWZWpm1N2R8sm"
+    },
+    {
+      "name": "Grokking Modern System Design for Software Engineers & Managers",
+      "issuer": "Educative",
+      "date": "2022-07",
+      "url": "https://www.educative.io/verify-certificate/GZjlABCOz4MGxQKV7hWZWpm1N2R8sm"
+    },
+    {
+      "name": "System Design Expert",
+      "issuer": "AlgoExpert",
+      "date": "2022-06",
+      "url": "https://certificate.algoexpert.io/SE-512fdece3a"
+    },
+    {
+      "name": "Scalability @ System Design for Developers",
+      "issuer": "Educative",
+      "date": "2022-03",
+      "url": "https://www.educative.io/verify-certificate/jJ8yMXCLlq41R5p34UA5Ap3yVJR75p"
+    },
+    {
+      "name": "Learn Functional Programming in Python",
+      "issuer": "Educative",
+      "date": "2021-12",
+      "url": "https://www.educative.io/verify-certificate/qiv3oKCkrlzyvDXpLFplpQ1qj0PJFK"
+    },
+    {
+      "name": "Astronomer Certification for Apache Airflow Fundamentals",
+      "issuer": "Credly",
+      "date": "2021-12",
+      "url": "https://www.credly.com/badges/a54820a7-deaf-43d9-9af6-b9ac7ed40cc3"
+    },
+    {
+      "name": "Lean Product Management",
+      "issuer": "Educative",
+      "date": "2021-10",
+      "url": "https://www.educative.io/verify-certificate/wjB3xQCgYqWqJEn97llmI9Gxzwp5TG"
+    },
+    {
+      "name": "Learn Rust from Scratch",
+      "issuer": "Educative",
+      "date": "2021-10",
+      "url": "https://www.educative.io/verify-certificate/E15jyzfgQVpG3gyXgs4j4poB05AOuG"
+    },
+    {
+      "name": "Python Programming - Basics and Advanced",
+      "issuer": "DevU.in",
+      "date": "2017-07",
+      "url": ""
+    },
+    {
+      "name": "Introduction to R Programming",
+      "issuer": "edX",
+      "date": "2015-09",
+      "url": "https://verify.edx.org/cert/190e3ba014644adcb08cefe17205c583"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI SaaS Platform",
+      "description": "A full-stack AI-powered SaaS platform built with Next.js, Prisma, Pinecone vector database, and LangChain. The platform provides RAG (Retrieval-Augmented Generation) capabilities for intelligent document processing and conversational AI interfaces.",
+      "tech": ["Next.js", "Prisma", "Pinecone", "LangChain", "TypeScript"]
+    },
+    {
+      "name": "Obstacle Assault (3D Game)",
+      "description": "An immersive 3D obstacle course game developed using Unreal Engine 5 with C++23. Features realistic physics, dynamic obstacles, and progressive difficulty levels.",
+      "tech": ["Unreal Engine 5", "C++23", "Blueprints"]
+    },
+    {
+      "name": "Yobird & Treehouse Games",
+      "description": "Two retro-style 2D games developed in Rust using the bracket-lib library. Showcases game development capabilities in systems programming language with focus on performance and memory safety.",
+      "tech": ["Rust", "bracket-lib", "Game Development"]
+    },
+    {
+      "name": "OpenStreetMap Route Planner",
+      "description": "A route planning application built with C++23 that leverages OpenStreetMap data to calculate optimal paths between locations using graph algorithms.",
+      "tech": ["C++23", "OpenStreetMap API", "Graph Algorithms"]
+    },
+    {
+      "name": "System Monitor",
+      "description": "A cross-platform system monitoring tool developed in C++23 that provides real-time insights into CPU, memory, disk, and network usage with an intuitive dashboard interface.",
+      "tech": ["C++23", "System APIs", "Data Visualization"]
+    },
+    {
+      "name": "Housing Application",
+      "description": "A full-stack housing management application using React.js for the frontend, Node.js for the backend, and Google Firestore Database for real-time data synchronization.",
+      "tech": ["React.js", "Node.js", "Firestore", "Firebase"]
+    },
+    {
+      "name": "React Native Quizzing App",
+      "description": "A cross-platform quiz application built with React Native for both Android and iOS platforms. Features user authentication, real-time scoring, and multiple quiz categories.",
+      "tech": ["React Native", "Android", "iOS", "Mobile Development"]
+    }
+  ]
+}
