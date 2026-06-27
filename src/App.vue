@@ -35,12 +35,7 @@
                 </span>
               </div>
             </div>
-            <div style="margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-              <span class="badge">
-                <i class="fas fa-clock"></i> {{ data.thesis.status }}
-              </span>
-            </div>
-          </div>
+             </div>
         </div>
       </section>
 
