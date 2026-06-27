@@ -7,7 +7,7 @@
       <div class="contact-grid">
         <div class="contact-info">
           <h3>Let's Connect</h3>
-          <p>Have a project in mind or need consultation in AI/ML, Quantum Machine Learning, or Tech Architecture? I'm here to help.</p>
+          <p>Need consultation in AI/ML, Saas products, Platform Engineering or System Design and Architecture to scale your business? I'm here to help.</p>
           <div class="contact-details">
             <div class="contact-item">
               <i class="fas fa-map-marker-alt"></i>
@@ -39,9 +39,8 @@
             <label for="subject">Subject</label>
             <select id="subject" v-model="form.subject">
               <option value="">Select a topic...</option>
-              <option value="AI Consultation">AI/ML Consultation</option>
-              <option value="Quantum Machine Learning">Quantum Machine Learning</option>
-              <option value="Tech Architecture">Tech Architecture</option>
+              <option value="AI/ML/Agentic AI">AI/ML/Agentic AI</option>
+              <option value="System Design and Architecture">System Design and Architecture</option>
               <option value="Project Collaboration">Project Collaboration</option>
               <option value="Other">Other</option>
             </select>
