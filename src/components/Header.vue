@@ -7,6 +7,7 @@
       <div>
         <h1>{{ data.name }}</h1>
         <p class="title">{{ data.title }}</p>
+        <p class="title">{{data.graduation}}</p>
         <div class="contact-info">
           <span><i class="fas fa-map-pin"></i> {{ data.location }}</span>
         </div>
