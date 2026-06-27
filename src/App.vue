@@ -19,7 +19,7 @@
       <!-- Thesis Section -->
       <section class="thesis-section" style="margin-bottom: 2.5rem;">
         <h2 class="section-title">
-          <i class="fas fa-quantum"></i> MSc Thesis
+          <i class="fas fa-quantum"></i> M.Sc. in AI - Thesis
         </h2>
         <div class="glass" style="padding: 1.8rem 2.2rem;">
           <div class="thesis-card">
